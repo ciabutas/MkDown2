@@ -23,7 +23,7 @@
     "vue-mdijs": "0.5.12",
     "vue-router": "4.0.12",
     "vuex": "4.0.2",
-    "xss": "^1.0.9"
+    "xss": "^1.0.15"
   },
   "devDependencies": {
     "@rollup/plugin-eslint": "^9.0.5",
